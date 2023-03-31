@@ -23,5 +23,3 @@
 
 
 </div>
-<div>![Snake animation](https://github.com/MatheusFortes20/MatheusFortes20/blob/output/github-contribution-grid-snake.svg)
-</div>
